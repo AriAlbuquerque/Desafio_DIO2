@@ -1,4 +1,4 @@
 {
-    ":artist":{"S":"Iron Maiden"},
-    ":title":{"S":"Weekend Warrior"}
+    ":filmes":{"S":"Filme"},
+    ":title":{"S":"Diretor"}
 }

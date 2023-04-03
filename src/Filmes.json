@@ -1,0 +1,55 @@
+{
+    "Filmes": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Filme": {"S": " The Exorcist"},
+                  "Dretor": {"S": " William Friedkin"},
+                  "Genero": {"S": "Terror"},
+                  "AnoLancamento": {"S": "1974"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Filme": {"S": "Terror em Silent Hill"},
+                  "Dretor": {"S": " Christophe Gans"},
+                  "Genero": {"S": "Terror"},
+                  "AnoLancamento": {"S": "2006"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Filme": {"S": "Nós"},
+                  "Dretor": {"S": "Jordan Peele"},
+                  "Genero": {"S": "Terror"},
+                  "AnoLancamento": {"S": "2019"}
+                }
+            }
+        }
+        {
+            "PutRequest": {
+                "Item": {
+                  "Filme": {"S": "Não! Não Olhe!"},
+                  "Dretor": {"S": "Jordan Peele"},
+                  "Genero": {"S": "Terror psicológico, SCI-FI"},
+                  "AnoLancamento": {"S": "2022"}
+                }
+            }
+        },
+{
+            "PutRequest": {
+                "Item": {
+                  "Filme": {"S": "Hereditário"},
+                  "Dretor": {"S": "Ari Aster"},
+                  "Genero": {"S": "Terror psicológico"},
+                  "AnoLancamento": {"S": "2018"}
+                }
+            }
+        },
+
+      ]
+}

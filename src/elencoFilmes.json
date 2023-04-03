@@ -1,0 +1,21 @@
+{
+  "Artist": {"S": "Linda Blair"},
+  "Filme": {"S": " The Exorcist"},
+  "Dretor": {"S": " William Friedkin"},
+  "Genero": {"S": "Terror"},
+  "AnoLancamento": {"S": "1974"}
+  },
+{
+  "Artist": {"S": "Ellen Burstyn"},
+  "Filme": {"S": " The Exorcist"},
+  "Dretor": {"S": " William Friedkin"},
+  "Genero": {"S": "Terror"},
+  "AnoLancamento": {"S": "1974"}
+},
+{
+ "Artist": {"S": "Ellen Burstyn"},
+  "Filme": {"S": " The Exorcist"},
+  "Dretor": {"S": " William Friedkin"},
+  "Genero": {"S": "Terror"},
+  "AnoLancamento": {"S": "1974"}
+}

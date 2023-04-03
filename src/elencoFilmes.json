@@ -19,3 +19,88 @@
   "Genero": {"S": "Terror"},
   "AnoLancamento": {"S": "1974"}
 }
+
+{
+   "Artist": {"S": "Sean Bean"},
+   "Filme": {"S": "Terror em Silent Hill"},
+    "Dretor": {"S": " Christophe Gans"},
+    "Genero": {"S": "Terror"},
+    "AnoLancamento": {"S": "2006"},
+},
+{
+   "Artist": {"S": "Radha Mitchell"},
+   "Filme": {"S": "Terror em Silent Hill"},
+    "Dretor": {"S": " Christophe Gans"},
+    "Genero": {"S": "Terror"},
+    "AnoLancamento": {"S": "2006"},
+},
+{
+   "Artist": {"S": "Laurie Holden"},
+   "Filme": {"S": "Terror em Silent Hill"},
+    "Dretor": {"S": " Christophe Gans"},
+    "Genero": {"S": "Terror"},
+    "AnoLancamento": {"S": "2006"},
+}
+{
+  "Artist": {"S": "Lupita Nyong'o"},
+  "Filme": {"S": "Nós"},
+  "Dretor": {"S": "Jordan Peele"},
+  "Genero": {"S": "Terror"},
+  "AnoLancamento": {"S": "2019"}
+},
+{
+  "Artist": {"S": "Jordan Peele"},
+  "Filme": {"S": "Nós"},
+  "Dretor": {"S": "Jordan Peele"},
+  "Genero": {"S": "Terror"},
+  "AnoLancamento": {"S": "2019"}
+},
+{
+  "Artist": {"S": "Winston Duke"},
+  "Filme": {"S": "Nós"},
+  "Dretor": {"S": "Jordan Peele"},
+  "Genero": {"S": "Terror"},
+  "AnoLancamento": {"S": "2019"}
+}
+{
+"Artist": {"S": "Daniel Kaluuya"},
+"Filme": {"S": "Não! Não Olhe!"},
+"Dretor": {"S": "Jordan Peele"},
+"Genero": {"S": "Terror psicológico, SCI-FI"},
+"AnoLancamento": {"S": "2022"}
+},
+{
+"Artist": {"S": "Keke Palmer"},
+"Filme": {"S": "Não! Não Olhe!"},
+"Dretor": {"S": "Jordan Peele"},
+"Genero": {"S": "Terror psicológico, SCI-FI"},
+"AnoLancamento": {"S": "2022"}
+},
+{
+"Artist": {"S": "Steven Yeun"},
+"Filme": {"S": "Não! Não Olhe!"},
+"Dretor": {"S": "Jordan Peele"},
+"Genero": {"S": "Terror psicológico, SCI-FI"},
+"AnoLancamento": {"S": "2022"}
+}
+{
+  "Artist": {"S": "Toni Collette"},
+  "Filme": {"S": "Hereditário"},
+  "Dretor": {"S": "Ari Aster"},
+ "Genero": {"S": "Terror psicológico"},
+ "AnoLancamento": {"S": "2018"}
+},
+{
+  "Artist": {"S": "Alex Wolff"},
+  "Filme": {"S": "Hereditário"},
+  "Dretor": {"S": "Ari Aster"},
+ "Genero": {"S": "Terror psicológico"},
+ "AnoLancamento": {"S": "2018"}
+},
+{
+  "Artist": {"S": "Milly Shapiro"},
+  "Filme": {"S": "Hereditário"},
+  "Dretor": {"S": "Ari Aster"},
+ "Genero": {"S": "Terror psicológico"},
+ "AnoLancamento": {"S": "2018"}
+}
